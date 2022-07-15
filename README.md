@@ -1,2 +1,2 @@
-# Digital_Clock_App
+# digital_clock_app
 Very Simple Digital Clock
